@@ -2,7 +2,8 @@
 
 [![Crates.io](https://img.shields.io/crates/v/ode_solvers.svg)](https://crates.io/crates/ode_solvers/) [![Docs](https://docs.rs/ode_solvers/badge.svg)](https://docs.rs/ode_solvers) [![Crates.io](https://img.shields.io/crates/l/ode_solvers.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-[Homepage](https://hadrielwonda.github.io/ODESolver/)    <--#[Documentation](https://docs.rs/ode_solvers)#-->
+[Homepage](https://hadrielwonda.github.io/ODESolver/)  
+ <--[Documentation: Coming Soon]()-->
 
 Numerical methods to solve ordinary differential equations (ODEs) in Rust.
 
