@@ -98,7 +98,7 @@ let x_out = stepper.x_out();
 let y_out = stepper.y_out();
 ```
 
-See the [homepage](https://srenevey.github.io/ode-solvers/) for more details.
+See the [homepage](https://hadrielwonda.github.io/ode-solvers/) for more details.
 
 ## Acknowledgments
 
